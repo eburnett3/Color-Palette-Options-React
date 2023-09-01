@@ -36,5 +36,3 @@ class App extends Component {
 }
 
 export default App;
-
-// testing some dom manip
